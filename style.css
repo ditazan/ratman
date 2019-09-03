@@ -1,7 +1,6 @@
 body {
   background-image: url("emo.jpg");
   font-family: "Major Mono Display", monospace;
-  background-repeat: no-repeat;
   background-size: 100%;
 }
 h1 {
@@ -23,7 +22,7 @@ h3 {
   position: absolute;
   left: 150px;
   top: 100px;
-  width: 400px;
+  width: 25%;
   overflow: auto;
   background: rgba(0, 0, 0, 0.5);
   padding: 30px;
@@ -34,7 +33,7 @@ h3 {
   position: absolute;
   right: 150px;
   top: 100px;
-  width: 900px;
+  width: 50%;
   overflow: auto;
   background: rgba(0, 0, 0, 0.5);
   padding: 30px;
