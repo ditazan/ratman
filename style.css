@@ -1,0 +1,56 @@
+body {
+  background-image: url("emo.jpg");
+  font-family: "Major Mono Display", monospace;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1 {
+  font-family: "Major Mono Display", monospace;
+  text-align: center;
+  color: #d9ffb3;
+}
+h2 {
+  font-family: "Major Mono Display", monospace;
+  text-align: left;
+  color: #d9ffb3;
+}
+h3 {
+  color: hotpink;
+  
+}
+
+.column {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+  width: 400px;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+}
+.column2 {
+  position: absolute;
+  right: 150px;
+  top: 100px;
+  width: 900px;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  box-sizing: border-box;
+}
+#back{
+    background: rgba(0, 0, 0, 0.5);
+    width:100%
+}
+
+.profilebig{
+    padding-left: 50px;
+}
+
+tr{
+    text-align: left;
+}
+
+a {
+color: hotpink;
+}
