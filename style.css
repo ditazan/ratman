@@ -15,7 +15,7 @@ h2 {
   color: #d9ffb3;
 }
 h3 {
-  color: hotpink;
+  color: #d9ffb3;
   
 }
 
@@ -27,6 +27,8 @@ h3 {
   overflow: auto;
   background: rgba(0, 0, 0, 0.5);
   padding: 30px;
+  border-style: outset;
+  border-color: hotpink;
 }
 .column2 {
   position: absolute;
@@ -37,6 +39,8 @@ h3 {
   background: rgba(0, 0, 0, 0.5);
   padding: 30px;
   box-sizing: border-box;
+  border-style: outset;
+  border-color: hotpink;
 }
 #back{
     background: rgba(0, 0, 0, 0.5);
