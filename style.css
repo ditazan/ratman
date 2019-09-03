@@ -15,7 +15,6 @@ h2 {
 }
 h3 {
   color: #d9ffb3;
-  
 }
 
 .column {
@@ -42,31 +41,28 @@ h3 {
   border-color: hotpink;
 }
 
-
-.profilebig{
-    padding-left: 50px;
+.profilebig {
+  padding-left: 50px;
 }
 
-tr{
-    text-align: left;
-    color: hotpink;
+tr {
+  text-align: left;
+  color: hotpink;
 }
 
 a {
-color: hotpink;
+  color: hotpink;
 }
 
-
-
-.credit{
-    text-align: center;
-    color: greenyellow;
-    padding-top: 30px;
+.credit {
+  text-align: center;
+  color: greenyellow;
+  padding-top: 30px;
 }
-p{
-    color:greenyellow;
+p {
+  color: greenyellow;
 }
 
-audio{
-    align-content: center;
+audio {
+  align-content: center;
 }
