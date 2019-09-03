@@ -56,14 +56,17 @@ a {
 color: hotpink;
 }
 
-.music{
-    padding-top: 20px;
-    padding-left: 50px;
-}
+
 
 .credit{
     text-align: center;
     color: greenyellow;
     padding-top: 30px;
 }
+p{
+    color:greenyellow;
+}
 
+audio{
+    align-content: center;
+}
