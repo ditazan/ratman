@@ -24,7 +24,7 @@ h3 {
   top: 100px;
   width: 25%;
   overflow: auto;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
   padding: 30px;
   border-style: outset;
   border-color: hotpink;
@@ -35,16 +35,13 @@ h3 {
   top: 100px;
   width: 50%;
   overflow: auto;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
   padding: 30px;
   box-sizing: border-box;
   border-style: outset;
   border-color: hotpink;
 }
-#back{
-    background: rgba(0, 0, 0, 0.5);
-    width:100%
-}
+
 
 .profilebig{
     padding-left: 50px;
@@ -60,7 +57,7 @@ color: hotpink;
 
 .music{
     padding-top: 20px;
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 .credit{
