@@ -6,7 +6,7 @@ body {
 h1 {
   font-family: "Major Mono Display", monospace;
   text-align: center;
-  color: #d9ffb3;
+  color: greenyellow;
 }
 h2 {
   font-family: "Major Mono Display", monospace;
@@ -49,6 +49,7 @@ h3 {
 
 tr{
     text-align: left;
+    color: hotpink;
 }
 
 a {
