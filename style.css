@@ -7,14 +7,17 @@ h1 {
   font-family: "Major Mono Display", monospace;
   text-align: center;
   color: greenyellow;
+  text-shadow: 0px 0px 6px #d9ffb3,0 0 5px hotpink;
 }
 h2 {
   font-family: "Major Mono Display", monospace;
   text-align: left;
-  color: #d9ffb3;
+  color: greenyellow;
 }
 h3 {
+    font-size: 20px;
   color: #d9ffb3;
+  text-shadow: 0px 0px 3px #d9ffb3,0 0 5px hotpink;
 }
 
 .column {
@@ -65,4 +68,10 @@ p {
 
 audio {
   align-content: center;
+}
+
+.constraints{
+    color: greenyellow;
+    font-size: 30px;
+    font-weight: bolder;
 }
